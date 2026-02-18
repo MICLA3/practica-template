@@ -189,7 +189,7 @@ input, select, textarea {
 			-moz-column-gap: 2em;
 			-webkit-column-gap: 2em;
 			-ms-column-gap: 2em;
-			column-gap: 2em;
+			column-gap: 3em;
 			text-align: justify;
 		}
 
