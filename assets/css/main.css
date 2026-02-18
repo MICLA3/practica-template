@@ -258,7 +258,7 @@ input, select, textarea {
 	}
 
 	code {
-		border-radius: 8px;
+		border-radius: 12px;
 		border: solid 1px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
